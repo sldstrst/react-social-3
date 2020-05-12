@@ -1,0 +1,4 @@
+Git: https://www.youtube.com/watch?v=qMnZz5TI1WY 
+BEM metodology: https://ru.bem.info/methodology/
+Grid css: 
+history API html5
